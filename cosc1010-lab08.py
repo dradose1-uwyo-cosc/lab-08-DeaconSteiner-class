@@ -1,19 +1,16 @@
-# Your Name Here
+# Deacon Steiner
 # UWYO COSC 1010
-# Submission Date
-# Lab XX
-# Lab Section:
+# 11/05/24
+# Lab 08
+# Lab Section: 11
 # Sources, people worked with, help given to:
-# your
-# comments
-# here
+
 
 
 # Write a function that will properly check strings to see if they are an int or float, and convert them if so
 # If they can't be converted return false
 # Other wise return the converted int or float 
 # Floats should only have one decimal point in them 
-
 
 print("*" * 75)
 
